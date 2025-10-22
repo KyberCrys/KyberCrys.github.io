@@ -25,7 +25,8 @@ If so, a suitable refencing system will be needed for the files below, eg Gantt1
 ### Decomposition Diagrams:
 [Suitable Decomposition](Link to decomposition diagram)<br/>
 ### Class Diagrams:
-![Uploading image.png…]()
+![Uploading diagram.png…]()
+
 
 ### Sequence Diagrams:
 [Suitable Sequence](Link to Sequence diagram)<br/>
