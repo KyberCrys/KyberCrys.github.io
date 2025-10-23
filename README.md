@@ -29,10 +29,10 @@ If so, a suitable refencing system will be needed for the files below, eg Gantt1
 
 
 ### Sequence Diagrams:
-<img width="464" height="331" alt="Pursuer" src="https://github.com/user-attachments/assets/e644d44e-480a-401e-9e16-3e961d7217c3" />
-<img width="468" height="465" alt="LockedDoor" src="https://github.com/user-attachments/assets/03eb5fe9-2893-45c1-ac72-39762bd0a3e5" />
-<img width="306" height="243" alt="BusEvent" src="https://github.com/user-attachments/assets/88308df5-52eb-4f6a-a612-8bd19cc88e9a" />
-<img width="383" height="86" alt="LongBoiEvent" src="https://github.com/user-attachments/assets/d9376ca9-0633-4793-aa4a-0e024a42be0f" />
+<img width="464" height="331" alt="Pursuer" src="https://github.com/user-attachments/assets/e644d44e-480a-401e-9e16-3e961d7217c3" /> <br/>
+<img width="468" height="465" alt="LockedDoor" src="https://github.com/user-attachments/assets/03eb5fe9-2893-45c1-ac72-39762bd0a3e5" /> <br/>
+<img width="306" height="243" alt="BusEvent" src="https://github.com/user-attachments/assets/88308df5-52eb-4f6a-a612-8bd19cc88e9a" /> <br/>
+<img width="383" height="86" alt="LongBoiEvent" src="https://github.com/user-attachments/assets/d9376ca9-0633-4793-aa4a-0e024a42be0f" /> <br/>
 <br/>
 ### State Diagrams:
 [Suitable State](Link to State diagram)<br/>
