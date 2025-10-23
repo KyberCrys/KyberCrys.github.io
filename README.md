@@ -20,7 +20,14 @@ This section could include the links to any assets that we used for our game tha
 (Remove once website finished)According to the assessment paper, we may not be allowed to put diagrams or screenshots in our documents, hence the next few sections are for diagrams, gantt charts, etc.<br/>
 If so, a suitable refencing system will be needed for the files below, eg Gantt1 for the first gantt chart, and these would be placed in the deliverables, though this may only be needed for additional content<br/>
 ## <ins> Gant Charts <ins/>:
-[Suitable Gantt](Link to the Gantt chart screenshot for a specific week)<br/>
+[Suitable Gantt](Link to the Gantt chart screenshot for a specific week)<br/> 
+<br/>Week 3 Gantt Chart <br/>
+<img width="885" height="486" alt="Gantt chart week 3" src="https://github.com/user-attachments/assets/1e06231e-a6fe-4acc-bbb2-eec96ba13aa1" /><br/>
+<br/>Week 4 Gantt Chart <br/>
+<img width="712" height="465" alt="Gantt chart week 4" src="https://github.com/user-attachments/assets/55a64aa2-48f4-4641-898b-a1de0d8b882b" /><br/>
+<br/>Week 5 Gantt Chart <br/>
+<img width="1222" height="678" alt="Gantt chart week 5" src="https://github.com/user-attachments/assets/331e0f72-e6f0-4f2d-9452-50b61112c36d" /><br/>
+
 ## <ins> Architecture diagrams <ins/>:
 ### Decomposition Diagrams:
 [Suitable Decomposition](Link to decomposition diagram)<br/>
