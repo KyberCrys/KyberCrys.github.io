@@ -1,4 +1,4 @@
-# <ins> Cohort 3 Team 2 project (Maybe replace this with game name if we think of one?) <ins/>
+# <ins> Breakout Betwixt Bork<ins/>
 ## <ins> Game description <ins/>
 Insert game description here.<br/>
 
