@@ -36,7 +36,8 @@ If so, a suitable refencing system will be needed for the files below, eg Gantt1
 ### Decomposition Diagrams:
 [Suitable Decomposition](Link to decomposition diagram)<br/>
 ### Class Diagrams:
-![Uploading diagram.png…]()
+<img width="756" height="429" alt="Uml class diagram" src="https://github.com/user-attachments/assets/52f17e85-943a-4fa8-bbb5-52e9277ff63a" />
+
 
 
 ### Sequence Diagrams:
