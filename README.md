@@ -7,10 +7,10 @@ Insert game description here.<br/>
 ## <ins> Deliverables <ins/>:
 [Executable JAR](Place JAR file here once project completed)<br/>
 [Github repository for project](https://github.com/KyberCrys/Team-2-Software-Engineering-Project)<br/>
-[Requirements PDF](Place link to Req1.pdf here)<br/>
+[Requirements PDF](https://github.com/user-attachments/files/23393586/Req1.pdf)<br/>
 [Architecture PDF](Place link to Arch1.pdf here)<br/>
 [Method selection and planning PDF](Place link to Plan1.pdf here)<br/>
-[Risk assessment and mitigation PDF](Place link to Risk1.pdf here)<br/>
+[Risk assessment and mitigation PDF](https://github.com/user-attachments/files/23393621/Risk1.pdf)<br/>
 [Implementation PDF](Place link to Impl1.pdf here)<br/>
 
 ## <ins> Assets used <ins/>:
