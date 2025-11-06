@@ -27,6 +27,10 @@ If so, a suitable refencing system will be needed for the files below, eg Gantt1
 <img width="712" height="465" alt="Gantt chart week 4" src="https://github.com/user-attachments/assets/55a64aa2-48f4-4641-898b-a1de0d8b882b" /><br/>
 <br/>Week 5 Gantt Chart <br/>
 <img width="1222" height="678" alt="Gantt chart week 5" src="https://github.com/user-attachments/assets/331e0f72-e6f0-4f2d-9452-50b61112c36d" /><br/>
+<br/>Week 6 Gantt Chart <br/>
+<img width="1575" height="798" alt="Week 6 Gantt" src="https://github.com/user-attachments/assets/d721def4-cf91-4890-a2a1-925970b1f895" /><br/>
+<br/>Final Gantt Chart <br/>
+<img width="1553" height="808" alt="Final Gantt" src="https://github.com/user-attachments/assets/9dd5c915-b754-4e23-8f51-d39d3ea4a2a4" /><br/>
 
 ## <ins> Architecture diagrams <ins/>:
 ### Decomposition Diagrams:
