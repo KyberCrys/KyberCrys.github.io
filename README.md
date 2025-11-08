@@ -20,10 +20,6 @@ In your endeavour, you may even encounter a secret ;) <br/>
 [Risk assessment and mitigation PDF](https://github.com/user-attachments/files/23393621/Risk1.pdf)<br/>
 [Implementation PDF](Place link to Impl1.pdf here)<br/>
 
-## <ins> Assets used <ins/>:
-This section could include the links to any assets that we used for our game that we did not make, (or assets we did make if we want)<br/>
-[Asset used](Link to the asset used)<br/>
-
 ## <ins> Gantt Charts <ins/>:
 <br/>Week 3 Gantt Chart <br/>
 <img width="885" height="486" alt="Gantt chart week 3" src="https://github.com/user-attachments/assets/1e06231e-a6fe-4acc-bbb2-eec96ba13aa1" /><br/>
