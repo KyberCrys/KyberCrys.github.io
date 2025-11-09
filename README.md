@@ -15,7 +15,8 @@ In your endeavour, you may even encounter a secret ;) <br/>
 [Github repository and JAR file for project](https://github.com/KyberCrys/Team-2-Software-Engineering-Project)<br/>
 [Requirements PDF](https://github.com/user-attachments/files/23393586/Req1.pdf)<br/>
 [Architecture PDF](Place link to Arch1.pdf here)<br/>
-[Method selection and planning PDF](Place link to Plan1.pdf here)<br/>
+[Method selection and planning PDF](https://github.com/user-attachments/files/23438911/Plan1.pdf)
+<br/>
 [Risk assessment and mitigation PDF](https://github.com/user-attachments/files/23393621/Risk1.pdf)<br/>
 [Implementation PDF](Place link to Impl1.pdf here)<br/>
 
