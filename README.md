@@ -1,18 +1,18 @@
 # <ins> Breakout Betwixt Bork<ins/>
 ## <ins> Game description <ins/>
 Stuck on campus, without your keys, can you make it back home?<br/>
-<img width="640" height="318" alt="Basic Screenshot of Breakout Betwixt Bork" src="https://github.com/user-attachments/assets/9866bf9e-7996-4f35-b8b1-c4ab8affca77" />
+<img width="640" height="318" alt="Basic Screenshot of Breakout Betwixt Bor" src="https://github.com/user-attachments/assets/b71ea502-c9e4-4500-9bbb-c86375ab3b20" /> <br/>
+
 
 In Breakout Betwixt Bork, you have five minutes to find your keys and get back home to your magnificent trophy, but beware.<br/>
 <img width="64" height="64" alt="trophy" src="https://github.com/user-attachments/assets/6a0f2170-e428-43e3-94ba-cdf4fd43bf07" /> <br/>
 The Dean is present, and will do anything necessary to stop you.<br/>
 <img width="100" height="100" alt="dean" src="https://github.com/user-attachments/assets/d676ba9c-8b51-4638-9b8c-cbc3990e7e1d" /> <br/>
 In your endeavour, you may even encounter a secret ;) <br/>
-<img width="110" height="121" alt="LONG BOI" src="https://github.com/user-attachments/assets/3b69c773-8bce-4d45-82c9-33a35fcc7217" /> <br/>
-
+<img width="110" height="121" alt="LONG BOI" src="https://github.com/user-attachments/assets/3b69c773-8bce-4d45-82c9-33a35fcc7217" /> 
 <img width="1" height="1" alt="niko" src="https://github.com/user-attachments/assets/b2a33c6e-e385-4f68-a963-e8ab179446ac" /><br/>
 ## <ins> Deliverables <ins/>:
-[Executable JAR](Place JAR file here once project completed)<br/>
+[Executable JAR]<br/>
 [Github repository for project](https://github.com/KyberCrys/Team-2-Software-Engineering-Project)<br/>
 [Requirements PDF](https://github.com/user-attachments/files/23393586/Req1.pdf)<br/>
 [Architecture PDF](Place link to Arch1.pdf here)<br/>
