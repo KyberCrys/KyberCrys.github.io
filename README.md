@@ -41,11 +41,20 @@ In your endeavour, you may even encounter a secret ;) <br/>
 
 
 ### Sequence Diagrams:
+<br/>Pursuer Sequence Diagrams <br/>
 <img width="464" height="331" alt="Pursuer" src="https://github.com/user-attachments/assets/e644d44e-480a-401e-9e16-3e961d7217c3" /> <br/>
+<img width="583" height="279" alt="PursuerV2" src="https://github.com/user-attachments/assets/0311e96c-170e-4686-8d9b-63fb9fcc814c" /> <br/>
+<br/>Locked Door Sequence Diagrams <br/>
 <img width="468" height="465" alt="LockedDoor" src="https://github.com/user-attachments/assets/03eb5fe9-2893-45c1-ac72-39762bd0a3e5" /> <br/>
+<img width="505" height="405" alt="LockedDoorV2" src="https://github.com/user-attachments/assets/3b43685a-6647-4417-873b-a4e3f0008335" /> <br/>
+<br/>U1 Bus Sequence Diagram <br/>
 <img width="306" height="243" alt="BusEvent" src="https://github.com/user-attachments/assets/88308df5-52eb-4f6a-a612-8bd19cc88e9a" /> <br/>
+<br/>Long Boi Sequence Diagram <br/>
 <img width="383" height="86" alt="LongBoiEvent" src="https://github.com/user-attachments/assets/d9376ca9-0633-4793-aa4a-0e024a42be0f" /> <br/>
+<br/>Item Sequence Diagram <br/>
+<img width="240" height="148" alt="Item" src="https://github.com/user-attachments/assets/6e2598fa-ef54-465c-9e07-a4cbb87672f4" /> <br/>
 <br/>
+
 ### State Diagrams:
 [Suitable State](Link to State diagram)<br/>
 ### Design process evidence (If we want to separate the completed versions from incomplete):
