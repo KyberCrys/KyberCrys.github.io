@@ -12,8 +12,7 @@ In your endeavour, you may even encounter a secret ;) <br/>
 <img width="110" height="121" alt="LONG BOI" src="https://github.com/user-attachments/assets/3b69c773-8bce-4d45-82c9-33a35fcc7217" /> 
 <img width="1" height="1" alt="niko" src="https://github.com/user-attachments/assets/b2a33c6e-e385-4f68-a963-e8ab179446ac" /><br/>
 ## <ins> Deliverables <ins/>:
-[Executable JAR]<br/>
-[Github repository for project](https://github.com/KyberCrys/Team-2-Software-Engineering-Project)<br/>
+[Github repository and JAR file for project](https://github.com/KyberCrys/Team-2-Software-Engineering-Project)<br/>
 [Requirements PDF](https://github.com/user-attachments/files/23393586/Req1.pdf)<br/>
 [Architecture PDF](Place link to Arch1.pdf here)<br/>
 [Method selection and planning PDF](Place link to Plan1.pdf here)<br/>
