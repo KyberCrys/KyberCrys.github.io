@@ -33,7 +33,7 @@ In your endeavour, you may even encounter a secret ;) <br/>
 <img width="1553" height="808" alt="Final Gantt" src="https://github.com/user-attachments/assets/9dd5c915-b754-4e23-8f51-d39d3ea4a2a4" /><br/>
 
 ## <ins> Architecture diagrams <ins/>:
-### Decomposition Diagrams:
+### Component Diagrams:
 [Suitable Decomposition](Link to decomposition diagram)<br/>
 ### Class Diagrams:
 <img width="756" height="429" alt="Uml class diagram" src="https://github.com/user-attachments/assets/52f17e85-943a-4fa8-bbb5-52e9277ff63a" />
