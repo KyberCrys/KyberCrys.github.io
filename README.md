@@ -53,8 +53,7 @@ In your endeavour, you may even encounter a secret ;) <br/>
 <br/>Locked Door Sequence Diagrams <br/>
 <img width="468" height="465" alt="LockedDoor" src="https://github.com/user-attachments/assets/03eb5fe9-2893-45c1-ac72-39762bd0a3e5" /> <br/>
 <img width="505" height="405" alt="LockedDoorV2" src="https://github.com/user-attachments/assets/3b43685a-6647-4417-873b-a4e3f0008335" /> <br/>
-<br/>U1 Bus Sequence Diagram <br/>
-<img width="306" height="243" alt="BusEvent" src="https://github.com/user-attachments/assets/88308df5-52eb-4f6a-a612-8bd19cc88e9a" /> <br/>
+
 <br/>Long Boi Sequence Diagram <br/>
 <img width="383" height="86" alt="LongBoiEvent" src="https://github.com/user-attachments/assets/d9376ca9-0633-4793-aa4a-0e024a42be0f" /> <br/>
 <br/>Item Sequence Diagram <br/>
@@ -73,6 +72,8 @@ In your endeavour, you may even encounter a secret ;) <br/>
 
 
 ### Design process evidence:
+<br/>U1 Bus Sequence Diagram <br/>
+<img width="306" height="243" alt="BusEvent" src="https://github.com/user-attachments/assets/88308df5-52eb-4f6a-a612-8bd19cc88e9a" /> <br/>
 <br/> U1 Bus State Diagram <br/>
 <img width="810" height="495" alt="Screenshot 2025-11-04 at 11 34 46" src="https://github.com/user-attachments/assets/024a2286-e64e-4a03-8541-f2e73e7708b3" /> <br/>
 
