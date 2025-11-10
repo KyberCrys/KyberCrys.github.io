@@ -39,8 +39,11 @@ In your endeavour, you may even encounter a secret ;) <br/>
 <img width="1136" height="666" alt="Component diagram 2" src="https://github.com/user-attachments/assets/bc7c8cfb-580e-4f2e-9618-dcad52526393" /> <br/>
 
 ### Class Diagrams:
+Initial Diagrams
 <img width="756" height="429" alt="Uml class diagram" src="https://github.com/user-attachments/assets/52f17e85-943a-4fa8-bbb5-52e9277ff63a" /> <br/>
+Diagrams after Evaluation 
 <img width="1630" height="1077" alt="ClassDiagramsV2" src="https://github.com/user-attachments/assets/3fb1957c-2bb3-46e6-8374-9bd611b0350c" /> <br/>
+Final Implemented Diagrams
 <img width="1949" height="1097" alt="ClassDiagramsV3" src="https://github.com/user-attachments/assets/be72117c-43e3-49c3-aa14-801f46507bfe" /> <br/>
 
 ### Sequence Diagrams:
