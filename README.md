@@ -7,7 +7,7 @@ Stuck on campus, without your keys, can you make it back home?<br/>
 In Breakout Betwixt Bork, you have five minutes to find your keys and get back home to your magnificent trophy, but beware.<br/>
 <img width="64" height="64" alt="trophy" src="https://github.com/user-attachments/assets/6a0f2170-e428-43e3-94ba-cdf4fd43bf07" /> <br/>
 The Dean is present, and will do anything necessary to stop you.<br/>
-<img width="22" height="18" alt="pursuer" src="https://github.com/user-attachments/assets/53565aef-e4c3-4389-a9c2-76eb68be5494" /> <br/>
+<img width="64" height="64" alt="dean" src="https://github.com/user-attachments/assets/2b91c20b-c756-4f46-959c-7c44dec086f3" /> <br/>
 In your endeavour, you may even encounter a secret ;) <br/>
 <img width="110" height="121" alt="LONG BOI" src="https://github.com/user-attachments/assets/3b69c773-8bce-4d45-82c9-33a35fcc7217" /> 
 <img width="1" height="1" alt="niko" src="https://github.com/user-attachments/assets/b2a33c6e-e385-4f68-a963-e8ab179446ac" /><br/>
