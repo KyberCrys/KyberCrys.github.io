@@ -34,7 +34,10 @@ In your endeavour, you may even encounter a secret ;) <br/>
 
 ## <ins> Architecture diagrams <ins/>:
 ### Component Diagrams:
-[Suitable Decomposition](Link to decomposition diagram)<br/>
+<img width="1129" height="450" alt="Component diagram 1" src="https://github.com/user-attachments/assets/7193265c-6290-4904-92f6-d46c0b6dac6e" /> <br/>
+<img width="1136" height="666" alt="Component diagram 2" src="https://github.com/user-attachments/assets/1c2ea810-4eee-46a3-9e03-5ce541f267fd" /> <br/>
+<img width="1136" height="666" alt="Component diagram 2" src="https://github.com/user-attachments/assets/bc7c8cfb-580e-4f2e-9618-dcad52526393" /> <br/>
+
 ### Class Diagrams:
 <img width="756" height="429" alt="Uml class diagram" src="https://github.com/user-attachments/assets/52f17e85-943a-4fa8-bbb5-52e9277ff63a" /> <br/>
 <img width="1630" height="1077" alt="ClassDiagramsV2" src="https://github.com/user-attachments/assets/3fb1957c-2bb3-46e6-8374-9bd611b0350c" /> <br/>
