@@ -39,12 +39,12 @@ In your endeavour, you may even encounter a secret ;) <br/>
 <img width="1136" height="666" alt="Component diagram 2" src="https://github.com/user-attachments/assets/bc7c8cfb-580e-4f2e-9618-dcad52526393" /> <br/>
 
 ### Class Diagrams:
-Initial Diagrams
+Initial Diagrams <br/>
 <img width="756" height="429" alt="Uml class diagram" src="https://github.com/user-attachments/assets/52f17e85-943a-4fa8-bbb5-52e9277ff63a" /> <br/>
 Diagrams after Evaluation 
-<img width="1630" height="1077" alt="ClassDiagramsV2" src="https://github.com/user-attachments/assets/3fb1957c-2bb3-46e6-8374-9bd611b0350c" /> <br/>
+<img width="815" height="538" alt="ClassDiagramsV2" src="https://github.com/user-attachments/assets/3fb1957c-2bb3-46e6-8374-9bd611b0350c" /> <br/>
 Final Implemented Diagrams
-<img width="1949" height="1097" alt="ClassDiagramsV3" src="https://github.com/user-attachments/assets/be72117c-43e3-49c3-aa14-801f46507bfe" /> <br/>
+<img width="970" height="550" alt="ClassDiagramsV3" src="https://github.com/user-attachments/assets/be72117c-43e3-49c3-aa14-801f46507bfe" /> <br/>
 
 ### Sequence Diagrams:
 <br/>Pursuer Sequence Diagrams <br/>
@@ -72,8 +72,7 @@ Final Implemented Diagrams
 
 
 
-### Design process evidence (If we want to separate the completed versions from incomplete):
-[Evidence](Link to a piece of evidence for the design process)<br/>
+### Design process evidence:
 <br/> U1 Bus State Diagram <br/>
 <img width="810" height="495" alt="Screenshot 2025-11-04 at 11 34 46" src="https://github.com/user-attachments/assets/024a2286-e64e-4a03-8541-f2e73e7708b3" /> <br/>
 
