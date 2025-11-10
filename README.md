@@ -59,9 +59,20 @@ In your endeavour, you may even encounter a secret ;) <br/>
 <br/>
 
 ### State Diagrams:
-[Suitable State](Link to State diagram)<br/>
+<br/> Locked Door State Diagram <br/>
+<img width="856" height="563" alt="Screenshot 2025-11-04 at 11 49 32" src="https://github.com/user-attachments/assets/94cc6000-3e70-4239-9769-68922195a8ff" /> <br/>
+<br/> Long Boi State Diagram <br/>
+<img width="481" height="392" alt="Screenshot 2025-11-03 at 15 09 24" src="https://github.com/user-attachments/assets/de1b8432-b949-4b2e-96b9-2d1f4f952b35" /> <br/>
+<br/> Persuer State Diagram <br/>
+<img width="390" height="279" alt="Screenshot 2025-11-09 at 23 22 46" src="https://github.com/user-attachments/assets/443f600c-140c-4c67-82e0-cbef970c3fb3" /> <br/>
+
+
+
+
 ### Design process evidence (If we want to separate the completed versions from incomplete):
 [Evidence](Link to a piece of evidence for the design process)<br/>
+<br/> U1 Bus State Diagram <br/>
+<img width="810" height="495" alt="Screenshot 2025-11-04 at 11 34 46" src="https://github.com/user-attachments/assets/024a2286-e64e-4a03-8541-f2e73e7708b3" /> <br/>
 
 
 
